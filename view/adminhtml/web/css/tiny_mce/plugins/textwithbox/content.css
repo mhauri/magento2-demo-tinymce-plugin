@@ -1,0 +1,33 @@
+#tinymce div.textwithbox {
+    position: relative;
+    border: 1px solid #888;
+    background: #eee;
+    overflow: hidden;
+    padding: 1%;
+}
+
+#tinymce div.textwithbox::before {
+    content: 'Text with Box';
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 10;
+    background: #f46f25;
+    padding: 2px;
+    color: #fff;
+    font-size: 9px;
+}
+
+#tinymce div.textwithbox .textwithbox-left,
+#tinymce div.textwithbox .textwithbox-right {
+    float: left;
+    padding: 1%;
+}
+#tinymce div.textwithbox .textwithbox-left {
+    width: 68%;
+    background: #fff;
+}
+#tinymce div.textwithbox .textwithbox-right {
+    width: 28%;
+    background: #aaa;
+}

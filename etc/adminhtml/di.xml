@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Cms\Model\Wysiwyg\Config">
+        <plugin name="demo_tinymceplugin_wysiwyg_config_plugin" type="Demo\TinyMcePlugin\Plugin\Wysiwyg\ConfigPlugin"/>
+    </type>
+</config>
