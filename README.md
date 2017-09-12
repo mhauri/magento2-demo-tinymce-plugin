@@ -2,7 +2,7 @@
 
 This Module is for demo purpose only, and should never made it into production without custom modifications.
 
-See: https://blog.hauri.me/how-to-add-a-tinymce-wysiwyg-plugin-in-magento-2
+See: https://blog.hauri.me/how-to-add-a-tinymce-plugin-to-the-magento2-wysiwyg-editor.html
 
 # License
 
