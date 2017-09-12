@@ -27,7 +27,7 @@ tinyMCE.addI18n({en:{
             return {
                 longname : 'Demo Text with Box Plugin for TinyMCE 3.x',
                 author : 'Marcel Hauri',
-                authorurl : 'https://blog.hauri.me/how-to-add-a-tinymce-wysiwyg-plugin-in-magento-2',
+                authorurl : 'https://blog.hauri.me/how-to-add-a-tinymce-plugin-to-the-magento2-wysiwyg-editor.html',
                 infourl : 'https://github.com/mhauri/magento2-demo-tinymce-plugin',
                 version : "1.0"
             };
